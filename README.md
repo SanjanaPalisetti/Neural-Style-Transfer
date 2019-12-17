@@ -9,8 +9,8 @@ The challenge required us to take the following two images, japanse_garden.jpg a
 ![Japanese Garden](/Images/japanese_garden.jpg)
 
 # Style Image
-![Picasso's Self Portrait](/images/picasso_selfportrait.jpg)
+![Picasso's Self Portrait](/Images/picasso_selfportrait.jpg)
 
 # Output Image
-![Generated Output](/images/output_image.png)
+![Generated Output](/Images/output_image.png)
 
