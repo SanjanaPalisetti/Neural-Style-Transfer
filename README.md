@@ -5,3 +5,5 @@ Neural style transfer is a technique that uses two input images, namely the styl
 
 The challenge required us to take the following two images, japanse_garden.jpg as the Content image and picasso_selfpotrait.jpg as the Style Image, and create a style-transfer output.
 
+# Content Image
+![Japanese Garden](/Images/japanese_garden.jpg)
